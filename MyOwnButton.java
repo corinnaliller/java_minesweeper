@@ -4,7 +4,7 @@ import javax.swing.JButton;
 /**
  * Eine Ableitung von JButton, damit diesem seine Koordinaten zugewiesen werden können, auf die dann
  * der Controller zugreifen kann.
- * @author bbm2h17mli
+ * @author Corinna Liller, bbm2h17mli
  *
  */
 public class MyOwnButton extends JButton {

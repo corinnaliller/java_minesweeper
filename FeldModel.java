@@ -3,7 +3,7 @@ package minesweeper;
 import java.util.Random;
 /**
  * Model, das die Spielfelder verwaltet.
- * @author bbm2h17mli
+ * @author Corinna Liller, bbm2h17mli
  *
  */
 

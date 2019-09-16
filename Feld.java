@@ -1,7 +1,7 @@
 package minesweeper;
 /**
  * Die einzelnen Spielfelder
- * @author bbm2h17mli
+ * @author Corinna Liller bbm2h17mli
  *
  */
 

@@ -12,7 +12,7 @@ import javax.swing.*;
 /**
  * Der Controller holt sich alle Klassen, die er braucht und bei den GUIs auch Zugriff auf Labels und Knöpfe.
  * Außerdem verfügt er über einen eigenen ActionListener und MouseListener (innere Klassen)
- * @author bbm2h17mli
+ * @author Corinna Liller, bbm2h17mli
  *
  */
 public class MinesweeperFeldController {
